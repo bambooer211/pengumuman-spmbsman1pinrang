@@ -1,0 +1,6 @@
+{
+  "name": "SPMB SMAN 1 Pinrang",
+  "description": "Aplikasi Pengumuman Resmi Seleksi Penerimaan Calon Peserta Didik Baru SMAN 1 Pinrang Tahun Ajaran 2026/2027 untuk Jalur Zona 1, Afirmasi, & Mutasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
